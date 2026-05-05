@@ -15,11 +15,11 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<you>/scuba-dance.git
-cd scuba-dance
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+  git clone https://github.com/<you>/scuba-dance.git
+  cd scuba-dance
+  python3 -m venv venv
+  source venv/bin/activate
+  pip install -r requirements.txt
 ```
 
 Модели MediaPipe и GIF уже в репозитории.
